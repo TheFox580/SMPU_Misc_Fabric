@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "smpu_misc",
+  "version": "${version}",
+  "name": "SMPU_Misc_Fabric",
+  "description": "The SMP Unity Misc mod for Fabric",
+  "authors": [
+    "TheFox580"
+  ],
+  "contact": {
+    "website": "https://www.solo.to/TheFox580",
+    "repo": "https://github.com/TheFox580/SMPU_Misc_Fabric"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/smpu_misc/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "fr.thefox580.smpu_misc.SMPU_Misc_FabricClient"
+    ],
+    "main": [
+      "fr.thefox580.smpu_misc.SMPU_Misc_Fabric"
+    ],
+    "fabric-datagen": [
+      "fr.thefox580.smpu_misc.SMPU_Misc_FabricDataGenerator"
+    ]
+  },
+  "mixins": [
+    "smpu_misc.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
