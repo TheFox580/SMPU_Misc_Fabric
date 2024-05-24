@@ -1,0 +1,28 @@
+{
+  "item.smpu_misc.english_worker_bites": "Ukąszenia pracowników (EN)",
+  "item.smpu_misc.spanish_worker_bites": "Ukąszenia pracowników (ES)",
+  "item.smpu_misc.portuguese_worker_bites": "Ukąszenia pracowników (PT)",
+  "item.smpu_misc.french_worker_bites": "Ukąszenia pracowników (FR)",
+  "item.smpu_misc.cerdu_plush": "Cerdu Plusz",
+  "item.smpu_misc.golden_melon": "Złote Kawałek arbuza",
+  "item.smpu_misc.train_ticket": "BIlet na Pociąg",
+  "item.smpu_misc.worker_hammer": "Robotniczy Młot",
+  "item.smpu_misc.xp_plush": "Plusz XP",
+  "item.smpu_misc.suspicious_white_powder": "Podejrzany biały proszek",
+  "item.smpu_misc.merffinn_plush": "Merffinn Plusz",
+
+  "item.minecraft.potion.effect.worker_boost": "Wzmocnienie pracownika",
+  "item.minecraft.splash_potion.effect.worker_boost": "Wzmocnienie Robotnika Splash",
+  "item.minecraft.lingering_potion.effect.worker_boost": "Zwiększenie stałego pracownika",
+
+  "itemgroup.smpu_misc": "Różne przedmioty SMPU",
+
+  "advancement.smpu_misc.root": "SMP Unity : Postępy",
+
+  "advancement.smpu_misc.worker_bites_eaten": "Praca, praca, praca, praca, praca, praca",
+  "advancement.smpu_misc.worker_bites_eaten.desc": "Zabrać się do pracy.",
+
+  "advancement.smpu_misc.get_cerdu_plush": "GYAAAAAATT",
+
+  "sounds.smpu_misc.suspicious_white_powder_sniff": "Wąchanie podejrzanego białego proszku"
+}

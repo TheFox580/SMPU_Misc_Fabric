@@ -1,5 +1,8 @@
 package fr.thefox580.smpu_misc;
 
+import fr.thefox580.smpu_misc.item.ModItemGroups;
+import fr.thefox580.smpu_misc.item.ModItems;
+import fr.thefox580.smpu_misc.sounds.ModSounds;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -12,6 +15,11 @@ public class SMPU_Misc_Fabric implements ModInitializer {
 
     @Override
     public void onInitialize() {
+
+        ModItems.registerModItems();
+        ModItemGroups.registerItemGroups();
+
+        ModSounds.registerSounds();
 
     }
 }

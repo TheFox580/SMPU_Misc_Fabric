@@ -1,0 +1,8 @@
+{
+  "suspicious_white_powder_sniff": {
+    "subtitles": "sounds.smpu_misc.suspicious_white_powder_sniff",
+    "sounds": [
+      "smpu_misc:suspicious_white_powder_sniff"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "item.smpu_misc.english_worker_bites": "Kagat ng Manggagawa (EN)",
+  "item.smpu_misc.spanish_worker_bites": "Kagat ng Manggagawa (ES)",
+  "item.smpu_misc.portuguese_worker_bites": "Kagat ng Manggagawa (PT)",
+  "item.smpu_misc.french_worker_bites": "Kagat ng Manggagawa (FR)",
+  "item.smpu_misc.cerdu_plush": "Cerdu Plush",
+  "item.smpu_misc.golden_melon": "Gintong Hiwa ng Pakwan",
+  "item.smpu_misc.train_ticket": "Tiket sa Tren",
+  "item.smpu_misc.worker_hammer": "Martilyo ng Manggagawa",
+  "item.smpu_misc.xp_plush": "XP Plush",
+  "item.smpu_misc.suspicious_white_powder": "Kahina-hinalang Puting Pulbos",
+  "item.smpu_misc.merffinn_plush": "Merffinn Plush",
+
+  "item.minecraft.potion.effect.worker_boost": "Pagpapalakas ng Manggagawa",
+  "item.minecraft.splash_potion.effect.worker_boost": "Splash Pagpapalakas ng Manggagawa",
+  "item.minecraft.lingering_potion.effect.worker_boost": "Lumatagal na Pagpapalakas ng Manggagawa",
+
+  "itemgroup.smpu_misc": "SMPU Misc Items",
+
+  "advancement.smpu_misc.root": "SMP Unity : Pagsulong",
+
+  "advancement.smpu_misc.worker_bites_eaten": "Trabaho, trabaho, trabaho, trabaho, trabaho, trabaho",
+  "advancement.smpu_misc.worker_bites_eaten.desc": "Magtrabaho.",
+
+  "advancement.smpu_misc.get_cerdu_plush": "GYAAAAAATT",
+
+  "sounds.smpu_misc.suspicious_white_powder_sniff": "Pagsinghot ng kahina-hinalang Puting Pulbos"
+}
