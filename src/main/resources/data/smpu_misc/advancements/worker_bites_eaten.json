@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "smpu_misc:worker_bites"
+      "item": "smpu_misc:spanish_worker_bites"
     },
     "title": {
       "translate": "advancement.smpu_misc.worker_bites_eaten"

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "smpu_misc",
   "version": "${version}",
-  "name": "SMPU_Misc_Fabric",
+  "name": "SMPU Misc",
   "description": "The SMP Unity Misc mod for Fabric",
   "authors": [
     "TheFox580"
