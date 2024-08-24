@@ -1,0 +1,25 @@
+{
+  "item.unity_misc.english_worker_bites": "Mordidas de Trabalhador (EN)",
+  "item.unity_misc.spanish_worker_bites": "Mordidas de Trabalhador (ES)",
+  "item.unity_misc.portuguese_worker_bites": "Mordidas de Trabalhador (POR)",
+  "item.unity_misc.french_worker_bites": "Mordidas de Trabalhador (FR)",
+  "item.unity_misc.golden_melon": "Fatia de melancia Dourada",
+  "item.unity_misc.train_ticket": "Bilhete de Trem",
+  "item.unity_misc.worker_hammer": "Martelo de Trabalhador",
+  "item.unity_misc.xp_plush": "Pelúcia MaddsXP",
+  "item.unity_misc.suspicious_white_powder": "Pó Branco Suspeito",
+  "item.unity_misc.merffinn_plush": "Merffinn Pelúcia",
+
+  "item.minecraft.potion.effect.worker_boost": "Impulso do Trabalhador",
+  "item.minecraft.splash_potion.effect.worker_boost": "Impulso do Trabalhador Inicial",
+  "item.minecraft.lingering_potion.effect.worker_boost": "Impulso Persistente do Trabalhador",
+
+  "itemgroup.unity_misc": "Itens diversos do Unity",
+
+  "advancement.unity_misc.root": "SMP Unity : Proezas",
+
+  "advancement.unity_misc.worker_bites_eaten": "Trabalhar, trabalhar, trabalhar, trabalhar, trabalhar, trabalhar",
+  "advancement.unity_misc.worker_bites_eaten.desc": "Ir trabalhar.",
+
+  "sounds.unity_misc.suspicious_white_powder_sniff": "Cheirando um pó branco suspeito"
+}

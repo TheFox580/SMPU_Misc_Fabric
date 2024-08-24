@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "unity_misc:spanish_worker_bites"
+    },
+    "title": {
+      "translate": "advancement.unity_misc.root"
+    },
+    "description": "",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true,
+    "background": "unity_misc:textures/item/worker_bites_background_advancement.png"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "unity_misc:english_worker_bites"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

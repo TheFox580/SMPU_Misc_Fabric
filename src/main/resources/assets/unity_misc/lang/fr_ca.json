@@ -1,0 +1,25 @@
+{
+  "item.unity_misc.english_worker_bites": "Gâteaux de Travailleur (EN)",
+  "item.unity_misc.spanish_worker_bites": "Gâteaux de Travailleur (ES)",
+  "item.unity_misc.portuguese_worker_bites": "Gâteaux de Travailleur (POR)",
+  "item.unity_misc.french_worker_bites": "Gâteaux de Travailleur (FR)",
+  "item.unity_misc.golden_melon": "Tranche de Melon d'eau Dorée",
+  "item.unity_misc.train_ticket": "Billet de Train",
+  "item.unity_misc.worker_hammer": "Marteau d'Ouvrier",
+  "item.unity_misc.xp_plush": "Peluche de MaddsXP",
+  "item.unity_misc.suspicious_white_powder": "Poudre Blanche Mystérieuse",
+  "item.unity_misc.merffinn_plush": "Peluche Merffinn",
+
+  "item.minecraft.potion.effect.worker_boost": "Boost de Travailleur",
+  "item.minecraft.splash_potion.effect.worker_boost": "Boost de Travailleur Jetable",
+  "item.minecraft.lingering_potion.effect.worker_boost": "Boost de Travailleur Persistant",
+
+  "itemgroup.unity_misc": "Unity Misc Items",
+
+  "advancement.unity_misc.root": "SMP Unity : Progrès",
+
+  "advancement.unity_misc.worker_bites_eaten": "Travaille, travaille, travaille, travaille, travaille, travaille",
+  "advancement.unity_misc.worker_bites_eaten.desc": "Travaillez.",
+
+  "sounds.unity_misc.suspicious_white_powder_sniff": "Reniflements de Poudre Blanche Mystérieuse"
+}
